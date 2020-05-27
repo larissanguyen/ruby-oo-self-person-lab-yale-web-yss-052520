@@ -73,4 +73,6 @@ class Person
       friend.happiness = (friend.happiness + 3)
       return "Hi #{friend.name}! It's #{@name}. How are you?"
     end
+    
+    
 end
