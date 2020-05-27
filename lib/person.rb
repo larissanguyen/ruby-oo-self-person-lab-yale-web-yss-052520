@@ -72,4 +72,5 @@ class Person
     def call_friend(friend)
       self.happiness = (@happiness + 3)
       friend.happiness = (friend.happiness + 3)
+    end
 end
