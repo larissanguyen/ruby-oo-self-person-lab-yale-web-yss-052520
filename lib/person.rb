@@ -68,4 +68,6 @@ class Person
       self.hygiene = (@hygiene - 3)
       return "♪ another one bites the dust ♫"
     end 
+    
+    def 
 end
