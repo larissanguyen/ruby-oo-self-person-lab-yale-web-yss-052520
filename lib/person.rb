@@ -84,6 +84,7 @@ class Person
         person.happiness = (person.happiness + 1)
         return "blah blah sun blah rain"
       else
+        
       end
     end
 end
