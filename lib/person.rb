@@ -82,7 +82,8 @@ class Person
       elsif topic == "weather"
         self.happiness = (@happiness + 1)
         person.happiness = (person.happiness + 1)
-        return "blah blah partisan blah lobbyist"
+        return "blah blah sun blah rain"
+      else
       end
     end
 end
