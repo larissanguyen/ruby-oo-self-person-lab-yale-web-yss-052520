@@ -1,4 +1,4 @@
-cle# your code goes here
+# your code goes here
 require 'pry'
 
 class Person  
