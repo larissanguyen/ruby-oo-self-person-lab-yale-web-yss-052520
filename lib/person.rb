@@ -78,6 +78,7 @@ class Person
       if topic == "politics"
         return "blah blah partisan blah lobbyist"
       elsif topic == "weather"
+        
       end
     end
 end
